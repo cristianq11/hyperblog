@@ -2,6 +2,7 @@ hola
 soy cristian quiroz,empezando en el mundo del codigo.
 con ganas de aprender y crear buenos proyectos.
 
-master 1
+experimento 1 
+experimento 2
 
 master 2
